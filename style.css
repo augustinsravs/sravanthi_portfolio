@@ -2246,7 +2246,7 @@ body{
   content: '';
   position: absolute;
   top: 40px;
-  left: -15px;
+  left: 7px;
   width: 16px;
   height: 16px;
   background: white;
@@ -2257,7 +2257,7 @@ body{
 
 @media (max-width: 768px) {
   .timeline-item::before {
-    left: -10px;
+    left: 7px;
   }
 }
 
