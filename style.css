@@ -171,7 +171,7 @@ font-size: 1.2rem;
 .about-text {
 font-size: 1.1rem;
 line-height: 1.8;
-color: var(--text-dark);
+color: #59749a;
 margin-bottom: 1.5rem;
 }
 
@@ -2280,7 +2280,7 @@ body{
 
 @media (prefers-color-scheme: dark) {
   .timeline-role h3 {
-    color: #5d2182;
+    color: #3146bc;
   }
 }
 
